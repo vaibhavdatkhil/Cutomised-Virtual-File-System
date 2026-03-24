@@ -136,7 +136,7 @@ PINODE head = NULL;
 //
 //  Function Name :     InitialiseUAREA
 //  Description :       It is used to initialise UAREA members
-//  Author :            Piyush Manohar Khairnar
+//  Author :            Vaibhav Vilas Datkhil
 //  Date :              13/01/2026
 //
 //////////////////////////////////////////////////////////
@@ -158,7 +158,7 @@ void InitialiseUAREA()
 //
 //  Function Name :     InitialiseSuperBlock
 //  Description :       It is used to initialise Super block members
-//  Author :            Piyush Manohar Khairnar
+//  Author :            Vaibhav Vilas Datkhil
 //  Date :              13/01/2026
 //
 //////////////////////////////////////////////////////////
@@ -175,7 +175,7 @@ void InitialiseSuperBlock()
 //
 //  Function Name :     CreateDILB
 //  Description :       It is used to create Linkedlist of inodes
-//  Author :            Piyush Manohar Khairnar
+//  Author :            Vaibhav Vilas Datkhil
 //  Date :              13/01/2026
 //
 //////////////////////////////////////////////////////////
@@ -219,7 +219,7 @@ void CreateDILB()
 //  Function Name :     StartAuxillaryDataInitilisation
 //  Description :       It is used to call all such functions which are
 //                      used to initialise auxillary data
-//  Author :            Piyush Manohar Khairnar
+//  Author :            Vaibhav Vilas Datkhil
 //  Date :              13/01/2026
 //
 //////////////////////////////////////////////////////////
