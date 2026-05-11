@@ -58,7 +58,7 @@ struct BootBlock
 //////////////////////////////////////////////////////////
 //
 //  Structure Name :    SuperBlock
-//  Description :       Holds the information about the file system
+//  Description :       Holds the information about the file system in super block
 //
 //////////////////////////////////////////////////////////
 
