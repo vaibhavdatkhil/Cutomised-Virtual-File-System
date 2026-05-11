@@ -678,8 +678,9 @@ int ReadFile(
         return ERR_INSUFFICIENT_DATA;
     }
 
-    // Read the data
-    strcpy(data,uareaobj.UFDT[fd]->ptrinode->Buffer.UFDT[fd]->ReadOffset)
+    // Read the data and retrive it to user
+    strncpy(data,uareaobj.UFDT[fd]->ptrinode->Buffer + uareaobj.UFDT[fd]->ReadOffset,size);
+    return size;
 }
 
 //////////////////////////////////////////////////////////
