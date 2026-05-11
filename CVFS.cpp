@@ -159,7 +159,7 @@ PINODE head = NULL;
 //////////////////////////////////////////////////////////
 //
 //  Function Name :     InitialiseUAREA
-//  Description :       It is used to initialise UAREA members
+//  Description :       It is used to initialise UAREA members inside inode members
 //  Author :            Vaibhav Vilas Datkhil
 //  Date :              13/01/2026
 //
